@@ -1,9 +1,7 @@
 <h1 align="center">Hey there ! 👋, I'm Akimarie Villaflor, but you can just call me Aki. 🎀</h1>
 <h3 align="center">As an IT student, I'm all about diving into the exciting world of technology. From coding to troubleshooting, I'm here to explore and conquer the digital universe! 💻 Let's geek out together! 🚀</h3>
 
-
 ![hi-wave](https://github.com/kaptkay/kaptkay/assets/147700578/96b8b682-b171-43f2-a5e8-21eb49b3c22b)
-
 
 ###
 
