@@ -1,10 +1,9 @@
 <h1 align="center">Hey there ! 👋, I'm Akimarie Villaflor, but you can just call me Aki. 🎀</h1>
 <h3 align="center">As an IT student, I'm all about diving into the exciting world of technology. From coding to troubleshooting, I'm here to explore and conquer the digital universe! 💻 Let's geek out together! 🚀</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+![hi-wave](https://github.com/kaptkay/kaptkay/assets/147700578/96b8b682-b171-43f2-a5e8-21eb49b3c22b)
+
 
 ###
 
@@ -14,20 +13,16 @@
 
 <p align="left"> <a href="https://twitter.com/kaptkay" target="blank"><img src="https://img.shields.io/twitter/follow/kaptkay?logo=twitter&style=for-the-badge" alt="kaptkay" /></a> </p>
 
+![kuromi-mitskiner](https://github.com/kaptkay/kaptkay/assets/147700578/69d1ed3e-d534-4cd0-b29e-4a1e88f82cb6)
+
+
 📫: akivillaflor22@gmail.com
-  
-
-![Uploading tkthao219-pig.gif…]()
-
+📫: villaflorakimarie@gmail.com
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -35,7 +30,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
