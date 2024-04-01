@@ -8,6 +8,15 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaptkay&label=Profile%20views&color=0e75b6&style=flat" alt="kaptkay" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaptkay" alt="kaptkay" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kaptkay" target="blank"><img src="https://img.shields.io/twitter/follow/kaptkay?logo=twitter&style=for-the-badge" alt="kaptkay" /></a> </p>
+
+📫: akivillaflor22@gmail.com
+  
+
 <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/tkthao219-pig-love-gif-21716749)"  />
 
 ###
